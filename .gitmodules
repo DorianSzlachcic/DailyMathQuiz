@@ -1,0 +1,6 @@
+[submodule "DailyMathQuiz-back"]
+	path = DailyMathQuiz-back
+	url = https://github.com/DorianSzlachcic/DailyMathQuiz-back.git
+[submodule "DailyMathQuiz-front"]
+	path = DailyMathQuiz-front
+	url = https://github.com/DorianSzlachcic/DailyMathQuiz-front.git
